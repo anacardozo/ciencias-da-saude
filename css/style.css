@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap');
+
+
 body{
     margin  : 0;
     
@@ -1467,27 +1470,220 @@ transition: 0.3s ease-in-out; }
                                                                   display: block;
                                                                 }}
 
+                                                                #especialização{
+                                                                  position: absolute;
+                                                                  top: 13200px;
+                                                                  color: #000;
+                                                                  font-size: 150px;
+                                                                  font-family: 'Fredoka', sans-serif;
+                                                                }
+
                                                                 #colaps1{
                                                                   position: absolute;
                                                                   top: 13400px;
                                                                   left: 30px;
+                                                                  width: 180px;
                                                                   height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
                                                                 
                                                                 }
 
                                                                 #colaps2{
                                                                   position: absolute;
                                                                   top: 13400px;
-                                                                  left: 400px;
+                                                                  left: 800px;
+                                                                  width: 180px;
                                                                   height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+
                                                                 
                                                                 }
 
                                                                 #colaps3{
                                                                   position: absolute;
-                                                                  top: 13400px;
-                                                                  left: 800px;
+                                                                  top: 13700px;
+                                                                  left: 30px;
+                                                                  width: 180px;
                                                                   height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+
                                                                 
                                                                 }
+
+                                                                #colaps4{
+                                                                  position: absolute;
+                                                                  top: 13700px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+
                                                                 
+                                                                }
+
+                                                                #colaps5{
+                                                                  position: absolute;
+                                                                  top: 14000px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+
+                                                                
+                                                                }
+
+                                                                #colaps6{
+                                                                  position: absolute;
+                                                                  top: 14000px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+
+                                                                
+                                                                }
+                                                                #mestrado{
+                                                                  position: absolute;
+                                                                  top: 14500px;
+                                                                  left: -250px;
+                                                                  color: #000;
+                                                                  font-size: 150px;
+                                                                  font-family: 'Fredoka', sans-serif;
+                                                                  text-shadow: 0.1em 0.1em 0.2em gray
+                                                                }
+                                                                #colaps7{
+                                                                  position: absolute;
+                                                                  top: 14700px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps8{
+                                                                  position: absolute;
+                                                                  top: 14900px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps9{
+                                                                  position: absolute;
+                                                                  top: 15100px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps10{
+                                                                  position: absolute;
+                                                                  top: 15300px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps11{
+                                                                  position: absolute;
+                                                                  top: 15500px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps12{
+                                                                  position: absolute;
+                                                                  top: 15700px;
+                                                                  left: 30px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+
+                                                                #doutorado{
+                                                                  position: absolute;
+                                                                  top: 14500px;
+                                                                  left: 250px;
+                                                                  color: #000;
+                                                                  font-size: 150px;
+                                                                  font-family: 'Fredoka', sans-serif;
+                                                                  text-shadow: 0.1em 0.1em 0.2em gray
+                                                                }
+                                                                #colaps13{
+                                                                  position: absolute;
+                                                                  top: 14700px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps14{
+                                                                  position: absolute;
+                                                                  top: 14900px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps15{
+                                                                  position: absolute;
+                                                                  top: 15100px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps16{
+                                                                  position: absolute;
+                                                                  top: 15300px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps17{
+                                                                  position: absolute;
+                                                                  top: 15500px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
+                                                                #colaps18{
+                                                                  position: absolute;
+                                                                  top: 15700px;
+                                                                  left: 800px;
+                                                                  width: 180px;
+                                                                  height: 50px;
+                                                                  color: #fff;
+                                                                  background-color: #000;
+                                                                
+                                                                }
